@@ -27,6 +27,8 @@
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #040924;
+    
+    overflow: hidden;
 }
 
 body, input, button {
