@@ -8,3 +8,5 @@ Esse projeto foi desenvolvido utilizando:
 - CSS
 - JavaScript
 - Figma
+<br/>
+Acesse o aplicativo acessando esse link: https://tramas3030.github.io/calculadora-de-imc/
